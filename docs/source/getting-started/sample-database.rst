@@ -1,7 +1,7 @@
 Sample Database
 ===============
 
-We have a ready-to-use PostgreSQL database that acts as a structurally-correct sample dataset. This is a postgres container image pre-loaded with data collected by CollectOSS that can be used to help you get started quickly with your downstream project that relies on CollectOSS data, whether thats running `8Knot <https://github.com/oss-aspen/8Knot>`_, using jupyter notebooks for research, or building your own dashboard.
+We have a ready-to-use PostgreSQL database that acts as a structurally-correct sample dataset. This is a postgres container image pre-loaded with data collected by CollectOSS that can be used to help you get started quickly with your downstream project that relies on CollectOSS data, whether thats running `8Knot <https://github.com/chaoss/8Knot>`_, using jupyter notebooks for research, or building your own dashboard.
 
 Image: ``ghcr.io/oss-aspen/sample-collected-data:latest``
 Using the image
